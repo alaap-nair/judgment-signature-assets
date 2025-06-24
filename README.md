@@ -46,4 +46,4 @@ Replace `Alex Shan` with your name, and `CEO` with your position.
 
 ## 📌 Contact
 
-For help updating your signature, contact the team lead or maintainer of this repo.
+For help updating your signature, contact Alaap.
